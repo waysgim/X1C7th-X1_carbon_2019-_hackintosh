@@ -3,7 +3,7 @@ Thinkpad X1 Carbon 7th Gen 2019 Hackintosh, for personality only.
 
 My hardware configuration
 
-1. Processor	Intel Core i5-8250U Processor	Fully
+1. Processor	Intel Core i7-8665U Processor	Fully
 2. Memory	16GB LPDDR3 2133MHz	Fully
 3. Storage	Sandisk SSD Controller 1T
 4. Graphics	Intel UHD Graphics 620	Fully with WhateverGreen.kext and properties inject
